@@ -1,69 +1,71 @@
-Business 360 Insights
-Domain: Strategic Business Analysis
-Project Title: Business 360 Insights for AtliQ Mart
-Company: AtliQ Mart – A growing FMCG company in Gujarat (Vadodara, Surat, Ahmedabad)
-Stakeholders: Director, Head of Business Strategy
+# 🧠 Business 360 Insights Dashboard - AtliQ Mart
 
-Background
-AtliQ Mart, a reputed FMCG player, is currently operational in three major cities of Gujarat and aims to scale operations into other metro and Tier-1 cities. To enable this expansion and ensure data-driven decisions, the leadership is focused on enhancing visibility across key business functions like Sales, Finance, Operations, and Customer Relations.
+A comprehensive Business Intelligence project designed for AtliQ Mart, a growing FMCG company operating in Gujarat. This dashboard provides a 360-degree view of the business covering sales, operations, finance, and customer analytics to support data-driven decision-making and strategic planning.
 
-Challenge
-While AtliQ Mart has access to various siloed data sources, it lacks a consolidated view of business performance. Department heads find it difficult to draw actionable insights due to fragmented reporting formats and lagging metrics. The leadership team wants a centralized 360-degree business dashboard to view performance holistically, spot trends, uncover inefficiencies, and make proactive decisions.
+## 🏢 Company Overview
+**AtliQ Mart** is an FMCG manufacturer headquartered in Gujarat, India. It currently operates in **Vadodara**, **Surat**, and **Ahmedabad**, with plans to expand into metro and Tier-1 cities. The company specializes in **Dairy**, **Food**, and **Beverages** categories.
 
-My Role
-As a newly onboarded Business Analyst, I have been tasked with leading the design, development, and deployment of an insightful Business 360 Dashboard. This dashboard should bring together critical KPIs from various departments, providing a single version of the truth for stakeholders.
+## 📌 Problem Statement
+The leadership team is facing challenges in:
+- Monitoring real-time business performance
+- Identifying cross-functional inefficiencies
+- Understanding customer churn and renewal trends
+- Making expansion-related decisions based on scattered reports
 
-My Task
-Build a Business 360 Dashboard using tools like Power BI/Tableau.
+To solve this, a centralized **Business 360 Dashboard** was needed.
 
-Incorporate department-specific KPIs and create drill-down functionalities.
+## 🎯 Objective
+Build an interactive dashboard to:
+- Provide a single source of truth for business performance
+- Track KPIs across departments (Sales, Operations, Finance, Customers)
+- Enable quick decision-making through data-driven insights
+- Support strategic planning and expansion initiatives
 
-Identify cross-functional trends and hidden patterns in the data.
+## 👨‍💼 Stakeholders
+- Director of AtliQ Mart  
+- Head of Business Strategy
 
-Present business insights and strategic recommendations.
+## 📊 KPIs Included
+### 🔹 Sales
+- Revenue Growth %
+- Sales Target Achievement
+- City-wise & Category-wise Trends
 
-Ensure dashboard is interactive, intuitive, and executive-friendly.
+### 🔹 Customer
+- Contract Renewal Rate
+- Repeat Purchase Rate
+- Customer Retention %
 
-KPIs Tracked
-Sales Performance:
+### 🔹 Finance
+- Gross Margin %
+- Net Profit Margin
+- ROI by Product Category
 
-Revenue Growth %, Sales Target Achievement, Product Category Trends, City-Wise Performance
+### 🔹 Operations
+- Order Fulfillment Rate
+- Average Delivery Time
+- Inventory Turnover Ratio
 
-Customer Insights:
+### 🔹 Strategic Growth
+- Market Penetration
+- Sales per Store
+- New Product Impact
 
-Repeat Purchase Rate, Customer Retention %, NPS Score, Contract Renewal Rate
+## 📈 Tools & Technologies
+- **Power BI** for dashboard development
+- **Excel** / **CSV** for data preprocessing
+- **SQL** for data extraction and transformation
 
-Financial Metrics:
+## 🧠 Key Insights
+- Surat had the lowest customer retention, suggesting localized service issues.
+- High-margin products contributed less to overall sales.
+- Delays in delivery linked to lower contract renewal rates.
+- Festival seasons showed sales spikes, but planning gaps led to missed opportunities.
 
-Gross Margin %, Operational Costs, Net Profit Margin, ROI by Category
+## 💡 Recommendations
+- Launch targeted campaigns in Surat to boost loyalty.
+- Reallocate marketing budget toward high-margin SKUs.
+- Improve inventory planning for seasonal peaks.
+- Initiate quarterly reviews using this dashboard.
 
-Operational Efficiency:
-
-Order Fulfillment Rate, Average Delivery Time, Inventory Turnover
-
-Strategic Growth:
-
-Market Penetration Rate, New Product Launch Impact, Sales per Store
-
-Topic Distribution
-Background & Stakeholders
-
-Problem Definition & Impact
-
-Dashboard Metrics
-
-Cross-Functional Analyses
-
-Data-Driven Insights
-
-Business Recommendations
-
-Key Insights
-High-margin product lines are underrepresented in top-selling categories.
-
-Surat consistently underperforms in customer retention compared to Vadodara and Ahmedabad.
-
-Operational delays correlate with customer churn rate and NPS drop.
-
-Revenue spikes around festival periods aren't supported by sufficient inventory buffer planning.
-
+## 📂 Folder Structure
